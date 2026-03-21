@@ -1,0 +1,16 @@
+package class1;
+
+import java.util.Scanner;
+
+public class Baejoon1001 {
+    public static void main(String[] args) {
+
+        Scanner sn = new Scanner(System.in);
+
+        int A = sn.nextInt();
+        int B = sn.nextInt();
+
+        System.out.println(A-B);
+
+    }
+}
