@@ -20,6 +20,7 @@ public class Baejoon2675 {
                     System.out.print(S.charAt(i));
                 }
             }
+            System.out.println();
         }
 
     }
